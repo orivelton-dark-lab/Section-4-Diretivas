@@ -1,0 +1,27 @@
+.myclass1 {
+  font-size: 16px;
+  color: limegreen;
+  background: blueviolet;
+  padding: 10px;
+}
+
+.myclass2 {
+  font-size: 16px;
+  color: coral;
+  background: aqua;
+  padding: 10px;
+}
+
+.myclass3 {
+  font-size: 16px;
+  color: deeppink;
+  background: darkorange;
+  padding: 10px;
+}
+
+.myclass4 {
+  font-size: 16px;
+  color: dodgerblue;
+  background: indigo;
+  padding: 10px;
+}
